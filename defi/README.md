@@ -1,3 +1,3 @@
 # 关于 DeFi
 
-[什么是Defi](defi/about-defi)
+[什么是Defi](about-defi)
